@@ -4,7 +4,7 @@
 
 ### Genere par applet
 
-![Graphe](C:\Users\Demna\Documents\GitHub\Graphe_projet\Applet\GrapheGenere.png)
+![Graphe](https://github.com/loic44650/Graphe_projet/blob/master/Applet/GrapheGenere.png)
 
 ### Graphe sous la forme de matrice
 
